@@ -1,4 +1,5 @@
-# ![PowerShell](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Powershell-Dark.svg "PowerShell") Launch Portable VS Code
+![PowerShell](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Powershell-Dark.svg)
+# Launch Portable VS Code
 
 ## 🇫🇷 Script simple pour lancer une version portable de VS Code à l'aide d'un alias avec PowerShell.
 
