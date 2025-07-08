@@ -1,4 +1,4 @@
-# ![alt text](https://icon.icepanel.io/Technology/png-shadow-512/Powershell.png) Launch Portable VS Code
+# ![alt text](https://icon.icepanel.io/Technology/png-shadow-512/Powershell.png?raw=true) Launch Portable VS Code
 
 ## 🇫🇷 Script simple pour lancer une version portable de VS Code à l'aide d'un alias avec PowerShell.
 
