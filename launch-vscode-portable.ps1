@@ -32,7 +32,7 @@ catch {
 
 # Lance VSCode
 if ($args.Count -gt 0) {
-	$allowedArgs = $args | Where-Object { $_ -match '^[-]{0,2}[a-zA-Z0-9\-]+$' }
+	$allowedArgs = $args | Where-Object { $_ -notmatch '[;&|]' }
 
 	Start-Process -FilePath "$codePath" -ArgumentList $allowedArgs
 }
